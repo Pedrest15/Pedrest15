@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/Pedrest15">
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrest15&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/top-langs/?username=Pedrest15&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div>
